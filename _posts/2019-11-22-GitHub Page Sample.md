@@ -9,9 +9,10 @@ catalog: true
 tags:
     - GitHub Page
 ---
+  
+  
+## GitHub Page Sample
 
-GitHub Page Sample
----
 Every GitHub Account has 300M space for free and you can build your own website using Custom domain
 
  ### Basic
