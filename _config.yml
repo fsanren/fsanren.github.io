@@ -19,7 +19,7 @@ sidebar-avatar: /img/006eBGbTgy1fwavpln68ej32kw3vcb2o.jpg      # use absolute UR
 # SNS settings
 RSS: false
 weibo_username:     YonKee_
-zhihu_username:     YonKee
+zhihu_username:     terre-4
 github_username:    fsanren
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -98,13 +98,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
+   {
         title: "Apple",
         href: "https://apple.com"
     },{
