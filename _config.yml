@@ -99,10 +99,13 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "MDN",
+        href: "https://developer.mozilla.org/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "RegExr",
+        href: "https://regexr.com/"
+    },{
+        title: "CodeFormat",
+        href: "https://tool.oschina.net/codeformat/xml/"
     }
 ]
